@@ -6,15 +6,15 @@ Things to do to get proper file :
 PART 1 : Language Fundamentals :
 -------------------------------------------------------------------------------------------
             TOPIC                       LINE NO.
-1. Introduction.                           15
-2. Application areas of Python.            30
-3. Features of Python.                     45
-4. Limitations of Python.                  115
-5. Flavors of Python.                      122
-6. Python Versions.                        133
-7. Identifiers.                            144
-8. Reserved words.
-9. Data Types and Type-casting.
+1. Introduction.                           20
+2. Application areas of Python.            35
+3. Features of Python.                     50
+4. Limitations of Python.                  120
+5. Flavors of Python.                      127
+6. Python Versions.                        138
+7. Identifiers.                            149
+8. Reserved words.                         166
+9. Data Types and Type-casting.            181
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
 1. Introduction :
@@ -146,15 +146,100 @@ of an advanced market more freely.)
 Latest Version as of today (18th March, 2020) : 3.9.2.
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
-7. Identifiers.
+7. Identifiers :
+-------------------------------------------------------------------------------------------
+Identifiers are the names that we give to a object or variable to make it easier for us
+to access it.
+There are some rules as to what name can be given to a Variable/Object.
+They are as follows :
+-------------------------------------------------------------------------------------------
+Rule 1 : Allowed Characters. {a to z, A to Z, 0 to 9, _ }
+Rule 2 : Initial Character. {Cannot start with a number.}
+Rule 3 : Case Sensitivity. {total and TOTAL are different.}
+Rule 4 : Length. {No limit to the length of the name.}
+Rule 5 : No Keywords Allowed. {Keywords like if, while,for are not allowed.}
+Special rules : _name means it's protected.
+                __name means it's private.
+                __name__ means it's a special varibale.
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+8. Reserved words/ Keywords :
+-------------------------------------------------------------------------------------------
+There are a total of 36 reserved Keywords in Python.
+There are no keywords on data types name, like int, String, boolean etc.
+It doesn't have the concept of switch and do while loop.
+There are only 3 Keywords with Initials as Upper Case. True, False, None.
+There is a program inside the (com.byGaurav.random) package that gives you all the
+available Keywords in the current version.
+The list retrieved from that program is :
+['False', 'None', 'True', '__peg_parser__', 'and', 'as', 'assert', 'async', 'await',
+'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for',
+'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass',
+'raise', 'return', 'try', 'while', 'with', 'yield'].
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+9. Data Types and Type-casting :
+-------------------------------------------------------------------------------------------
+There are a total of 14 Data Types in Python. They are as follows :
+01. int.
+02. float.
+03. complex.
+04. bool.
+05. str.
+06. list.
+07. tuple.
+08. set.
+09. frozenset.
+10. dict.
+11. bytes.
+12. bytearray.
+13. range.
+14. None.
+
+## Everything in Python is an Object ##
+-------------------------------------------------------------------------------------------
+1. int : Whole numbers. Can hold very large values too.
+-------------------------------------------------------------------------------------------
+4 ways to represent int data type :
+A. Binary. (0 or 1)
+B. Octal. (0 to 7)
+C. Decimal. (0 to 9)
+D. Hexa-Decimal. (0 to 9 , A/a to F/f)
+We use Decimal in our day to day life. While Machines internally use Binary.
+
+* Ways to represent all the representations of int :
+A. Binary : (Zero Small b and number) 0b11100.
+	    (Zero Capital B and number) 0B11100.
+
+B. Octal : (Zero Small o and number) 0o777.
+	   (Zero Capital O and number) 0O777.
+
+C. Hexa-Decimal : (Zero Small x and number) 0xfff.
+		  (Zero Capital X and number) 0Xfff.
+
+ * Conversion Methods : (Methods to convert from one representative type to another)
+
+A. bin(Decimal Number/Octal Number/Hexa-Decimal Number)
+Eg : bin(999), bin(0o777), bin(0xfff).
+
+B. oct(Binary Number/Decimal Number/Hexa-Decimal Number)
+Eg : bin(0b111), bin(999), bin(0xfff).
+
+C. hex(Binary Number/Decimal Number/Octal Number)
+Eg : bin(0b111), bin(999), bin(0o777).
+-------------------------------------------------------------------------------------------
+2. float : Decimal Point Numbers. (Only Decimal Representation is available)
+Eg : f = 123.4567890000000000001
+-------------------------------------------------------------------------------------------
+Now, we can represent it in a different form. Known as exponential or scientific form
+using (e/E).
+Eg : f = 1.2e3
+Which basically in normal float form is 1200.0.
+
+It's main purpose is to represent huge values into smaller and readable form.
+Eg : f = 1.2e12
+Which basically in normal float form is 1200000000000.0.
 -------------------------------------------------------------------------------------------
 
-
 -------------------------------------------------------------------------------------------
-8. Reserved words.
--------------------------------------------------------------------------------------------
-
-
--------------------------------------------------------------------------------------------
-9. Data Types and Type-casting.
 -------------------------------------------------------------------------------------------
