@@ -1,0 +1,10 @@
+Python Coding and running the code :
+-------------------------------------------------------------------------------------------
+Python IDLE (Integrated Development and Learning Environment) : Simple REPL tool.
+R - Read.
+E - Evaluate.
+P - Print.
+L - Loop.
+(Just used for learning and understanding the basics of the language and not at all for big
+applications. Just use it to get used to the language and syntax a bit.)
+-------------------------------------------------------------------------------------------

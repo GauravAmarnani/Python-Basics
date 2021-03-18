@@ -1,0 +1,22 @@
+Python Installation :
+-------------------------------------------------------------------------------------------
+PSF - Python Software Foundation.
+Official website to download : "python.org".
+-------------------------------------------------------------------------------------------
+Steps :
+-------------------------------------------------------------------------------------------
+1  -> Open website "https://www.python.org".
+2  -> Click on Downloads.
+3  -> Click on View full lists of downloads.
+4  -> Click on the most latest version link.
+5  -> Click on the Windows Installer (64-bit).
+6  -> Open Installer and run it.
+7  -> Go with Install now instead of Customized and at the end select the checkbox of
+     "Add Python to Path".
+8  -> Close Window.
+9  -> Go to "https://www.jetbrains.com/pycharm/"
+10 -> Click on Download.
+11 -> Click on Community Download for Windows.
+12 -> After Download, run the exe file and create Desktop Icon.
+13 -> Click on Install and select "Run Pycharm" checkbox and click on Finish.
+-------------------------------------------------------------------------------------------

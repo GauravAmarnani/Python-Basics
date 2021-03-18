@@ -1,0 +1,160 @@
+Things to do to get proper file :
+1. Click on search button on top right.
+2. Search "Font" and go to Setting -> Font.
+3. Set Font Size to 18 and Line spacing to 1.3.
+-------------------------------------------------------------------------------------------
+PART 1 : Language Fundamentals :
+-------------------------------------------------------------------------------------------
+            TOPIC                       LINE NO.
+1. Introduction.                           15
+2. Application areas of Python.            30
+3. Features of Python.                     45
+4. Limitations of Python.                  115
+5. Flavors of Python.                      122
+6. Python Versions.                        133
+7. Identifiers.                            144
+8. Reserved words.
+9. Data Types and Type-casting.
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+1. Introduction :
+-------------------------------------------------------------------------------------------
+Python is a (General Purpose) (High Level) (Dynamically Typed) (Programming Language).
+
+Guido Van Rossum is the Father of Python.
+He developed it in 1989 and was made public on 20th Feb 1991.
+He developed it while working in National Research Institute (NRI) in Netherlands.
+
+It is a very simple language to write. Less code required.
+
+The name Python was given from the show which Guido van Rossum liked very much.
+The show was "The Complete Monty Python Flying Circus" which was broad casted on BBC
+from 1969 to 1974.
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+2. Applications of Python :
+-------------------------------------------------------------------------------------------
+All rounder : Functional Programming, Object Oriented Programming, Scripting,
+Modular Programming.
+
+We can develop the following type of applications :
+
+1. Desktop Application.
+2. Web Applications.
+3. Networking Applications.
+4. Games Development.
+5. Data Analysis.
+6. ML, DS, AI, IOT.
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+3. Features of Python :
+-------------------------------------------------------------------------------------------
+A. Simple and easy to learn.
+B. Freeware and open source.
+C. High Level Programming Language.
+D. Platform Independent.
+E. Portability.
+F. Dynamically Typed.
+G. POP & OOP.
+H. Interpreted.
+I. Extensible.
+J. Embedded.
+K. Extensive Library.
+-------------------------------------------------------------------------------------------
+A. Simple and easy to learn.
+-------------------------------------------------------------------------------------------
+Just like English language.
+
+-------------------------------------------------------------------------------------------
+B. Freeware and open source.
+-------------------------------------------------------------------------------------------
+Code is available for anyone.
+
+-------------------------------------------------------------------------------------------
+C. High Level Programming Language :
+-------------------------------------------------------------------------------------------
+Don't need to worry about much things.
+
+-------------------------------------------------------------------------------------------
+D. Platform Independent :
+-------------------------------------------------------------------------------------------
+Same code can work on any OS or Browser.
+
+-------------------------------------------------------------------------------------------
+E. Portability :
+-------------------------------------------------------------------------------------------
+I don't really understand it. Lmao.
+
+-------------------------------------------------------------------------------------------
+F. Dynamically Typed :
+-------------------------------------------------------------------------------------------
+Huh.
+
+-------------------------------------------------------------------------------------------
+G. POP & OOP :
+-------------------------------------------------------------------------------------------
+Have both the POP and OOP features.
+
+-------------------------------------------------------------------------------------------
+H. Interpreted :
+-------------------------------------------------------------------------------------------
+Just runtime. Line by line execution.
+
+-------------------------------------------------------------------------------------------
+I. Extensible :
+-------------------------------------------------------------------------------------------
+Can use Java or C code inside it's application if there is a need of performance or
+security respectively.
+-------------------------------------------------------------------------------------------
+J. Embedded :
+-------------------------------------------------------------------------------------------
+We can embed Python code into any other programming language.
+
+-------------------------------------------------------------------------------------------
+K. Extensive Library :
+-------------------------------------------------------------------------------------------
+Huge ass libraries.
+
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+4. Limitations of Python :
+-------------------------------------------------------------------------------------------
+1. Android Development.
+2. Enterprise Applications.
+3. Low Performance because of just Interpretation (which executes Line by Line).
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+5. Flavors of Python :
+-------------------------------------------------------------------------------------------
+It basically means all the special libraries that have been created to interact with other
+programming languages and for particular jobs. For example :
+1. CPython - For working with C Language related application.
+2. JPython - For working with Java Language related application.
+3. Ruby Python - For working with Ruby Language related application.
+4. Anaconda Python - For working with ML related application.
+etc etc etc.
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+6. Versions of Python :
+-------------------------------------------------------------------------------------------
+Python 0.9 - 20th February 1991.
+Python 1.0 - January 1994.
+Python 2.0 - 16th October 2000.
+Python 3.0 - 3rd December 2008.
+(They don't support backward compatibility. And hence can change according to the needs
+of an advanced market more freely.)
+Latest Version as of today (18th March, 2020) : 3.9.2.
+-------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
+7. Identifiers.
+-------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------
+8. Reserved words.
+-------------------------------------------------------------------------------------------
+
+
+-------------------------------------------------------------------------------------------
+9. Data Types and Type-casting.
+-------------------------------------------------------------------------------------------
