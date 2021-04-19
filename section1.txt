@@ -240,6 +240,30 @@ It's main purpose is to represent huge values into smaller and readable form.
 Eg : f = 1.2e12
 Which basically in normal float form is 1200000000000.0.
 -------------------------------------------------------------------------------------------
+3. complex : A weird math formula representation thing.
+Eg : complex1 = 10 + 20x
+-------------------------------------------------------------------------------------------
+4. bool : True (1) or False (0).
+-------------------------------------------------------------------------------------------
+5. str :
+-------------------------------------------------------------------------------------------
+Examples of String Data Type :
+str1 = 'Gaurav'
+str2 = "Gaurav"
+str3 = 'a' (There is no Char Data Type in Python).
+
+
+Triple Quotes (''' abc ''') (""" abc """) :
+1. Multiline String Literal :
+string = ''' Gaurav
+            Sanjay
+            Amarnani '''
+2. Use of Single & Double Quote at the same time in a String :
+string = """ My name is 'Gaurav'. I live in "Mumbai"."""
+3.
+
 
 -------------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------------
+6. list :
+
+
