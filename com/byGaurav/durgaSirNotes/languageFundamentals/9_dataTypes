@@ -1,0 +1,141 @@
+9. Data Types and Type-casting :
+-------------------------------------------------------------------------------------------
+There are a total of 14 Data Types in Python. They are as follows :
+01. int.                21
+02. float.              57
+03. complex.            75
+04. bool.               84
+05. str.                92
+06. list.
+07. tuple.
+08. set.
+09. frozenset.
+10. dict.
+11. bytes.
+12. bytearray.
+13. range.
+14. None.
+
+## Everything in Python is an Object ##
+-------------------------------------------------------------------------------------------
+1. int : Whole numbers. Can hold very large values too.
+-------------------------------------------------------------------------------------------
+4 ways to represent int data type :
+A. Binary. (0 or 1)
+B. Octal. (0 to 7)
+C. Decimal. (0 to 9)
+D. Hexa-Decimal. (0 to 9 , A/a to F/f)
+We use Decimal in our day to day life. While Machines internally use Binary.
+
+* Ways to represent all the representations of int :
+A. Binary : (Zero Small b and number) 0b11100.
+	    (Zero Capital B and number) 0B11100.
+
+B. Octal : (Zero Small o and number) 0o777.
+	   (Zero Capital O and number) 0O777.
+
+C. Hexa-Decimal : (Zero Small x and number) 0xfff.
+		  (Zero Capital X and number) 0Xfff.
+
+* Conversion Methods : (Methods to convert from one representative type to another)
+
+A. bin(Decimal Number/Octal Number/Hexa-Decimal Number)
+Eg : bin(999), bin(0o777), bin(0xfff).
+
+B. oct(Binary Number/Decimal Number/Hexa-Decimal Number)
+Eg : bin(0b111), bin(999), bin(0xfff).
+
+C. hex(Binary Number/Decimal Number/Octal Number)
+Eg : bin(0b111), bin(999), bin(0o777).
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+2. float : Decimal Point Numbers. (Only Decimal Representation is available)
+Eg : f = 123.4567890000000000001
+-------------------------------------------------------------------------------------------
+Now, we can represent it in a different form. Known as exponential or scientific form
+using (e/E).
+Eg : f = 1.2e3
+Which basically in normal float form is 1200.0.
+
+It's main purpose is to represent huge values into smaller and readable form.
+Eg : f = 1.2e12
+Which basically in normal float form is 1200000000000.0.
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+3. complex : A weird math formula representation thing.
+Eg : complex1 = 10 + 20x
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+4. bool : True (1) or False (0).
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+5. str :
+-------------------------------------------------------------------------------------------
+Examples of String Data Type :
+str1 = 'Gaurav'
+str2 = "Gaurav"
+str3 = 'a' (There is no Char Data Type in Python).
+
+
+* Triple Quotes: (''' abc ''') (""" abc """)
+
+1. Multiline String Literal :
+string = ''' Gaurav
+            Sanjay
+            Amarnani '''
+
+2. Use of Single & Double Quote at the same time in a String :
+string = """ My name is 'Gaurav'. I live in "Mumbai"."""
+
+3. To define Doc String.
+
+
+* Indexing:
+(Positive Indexing) Starts at the start with index as 0.
+(Negative Indexing) Starts at the end with index as -1.
+
+
+* Slice Operator: s[startIndex(default : 0):endIndex(default : -1)]
+
+Returns subString from startIndex to (endIndex - 1).
+Eg : s[2:9] -> from s[2] to s[8].
+
+* Note : Slice Operator doesn't revoke Index Range Error.
+Eg : s[2:10000] -> from s[2] to s[-1], instead of throwing exception.
+
+* Note : Empty String.
+Eg : s[5:1] -> Instead of exception, we'll get an empty String.
+-------------------------------------------------------------------------------------------
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+6. list :
+-------------------------------------------------------------------------------------------
+
+
+
+
+-------------------------------------------------------------------------------------------

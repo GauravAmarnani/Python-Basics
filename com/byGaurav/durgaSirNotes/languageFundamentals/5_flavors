@@ -1,0 +1,9 @@
+5. Flavors of Python :
+-------------------------------------------------------------------------------------------
+It basically means all the special libraries that have been created to interact with other
+programming languages and for particular jobs. For example :
+1. CPython - For working with C Language related application.
+2. JPython - For working with Java Language related application.
+3. Ruby Python - For working with Ruby Language related application.
+4. Anaconda Python - For working with ML related application.
+etc etc etc.

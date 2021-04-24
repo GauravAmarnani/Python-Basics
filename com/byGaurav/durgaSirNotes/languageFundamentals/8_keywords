@@ -1,0 +1,13 @@
+8. Reserved words/ Keywords :
+-------------------------------------------------------------------------------------------
+There are a total of 36 reserved Keywords in Python.
+There are no keywords on data types name, like int, String, boolean etc.
+It doesn't have the concept of switch and do while loop.
+There are only 3 Keywords with Initials as Upper Case. True, False, None.
+There is a program inside the (com.byGaurav.random) package that gives you all the
+available Keywords in the current version.
+The list retrieved from that program is :
+['False', 'None', 'True', '__peg_parser__', 'and', 'as', 'assert', 'async', 'await',
+'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for',
+'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass',
+'raise', 'return', 'try', 'while', 'with', 'yield'].

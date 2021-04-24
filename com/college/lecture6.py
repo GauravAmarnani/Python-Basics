@@ -25,14 +25,8 @@ Methods:
 1. append(): To add another List to the end of the List.
              * Works like an array if you add (list or tuple or dictionary)
 2. count(): Number of times element has occur inside the list.
+            list.count(element).
 3. extend(): To add another Data Type to the end of the List. But not as an array.
-4. index(): Returns Index Number of element in parameters.
-            list.index(element), list.index(element, sIndex), list.index(element, sIndex, eIndex).
-            sIndex (startIndex) is inclusive.
-            eIndex (endIndex) is exclusive.
-5. pop(): Remove the element. Returns the element that got deleted.
-          list.pop() => Removes last element.
-          list.pop(index) => Removes index number element.
 """
 
 listName = [1, 1, 1, 2, 3, 4]
