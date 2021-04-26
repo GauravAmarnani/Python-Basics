@@ -168,3 +168,9 @@ print("Set1 : ", set1)
 
 set1.update([1, 2, 4])
 print("Set1 : ", set1)
+
+set1 = {}
+print("Type of set1 = {} = ", type(set1))
+
+set2 = set({})
+print("Type of set2 = set({}) = ", type(set2))
