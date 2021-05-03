@@ -28,6 +28,8 @@ Other Methods:
                             Can also be done with help of AND Operator (&).
 3. set1.difference(set2): Gives elements present only in set1 and not in set2.
                           Can also be done with help fo SUBTRACT Operator (-).
+4. set1.symmetric_difference(set2): Combination of (s1 - s2) & (s2 - s1).
+                                    Basically gives all the uncommon elements in both sets.
 """
 
 set3 = {1, 2, 3, 4, 5}
