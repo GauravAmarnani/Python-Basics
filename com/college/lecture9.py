@@ -1,1 +1,1 @@
-# I was again absent. Again Lmao.
+# I was again absent. Again.
