@@ -31,8 +31,7 @@ del a
 # print(a)
 
 
-
-# String Data Type :
+# String Data Type:
 string1 = "Hello"
 string2 = "World "
 
@@ -89,18 +88,15 @@ list5 = [{1: "Gaurav"}, {2: "Archita"}, {3: "Neha"}, {4: "Komal"}]
 print(list5)
 
 
-
 # Type Conversion:
 a = "123"
 print(int(a))
-
 
 
 # input() to take user input:
 name = input("Enter Your Name : ")
 age = int(input("Enter Your Age : "))
 print("Welcome to our Python tutorial Mr. ", name, " your age after 10 years will be : ", age+10)
-
 
 
 # Square Root:

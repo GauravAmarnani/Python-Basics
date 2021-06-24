@@ -1,4 +1,4 @@
-# Q. Find Facorial of a NUmber using Funtion.
+# Q. Find Factorial of a Number using Function.
 
 def factorial(number):
     if number == 1:

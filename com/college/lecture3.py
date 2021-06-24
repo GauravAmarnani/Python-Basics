@@ -37,7 +37,7 @@ print("Subtract : ", a)
 a *= b
 print("Mulitply : ", a)
 
-a  /= b
+a /= b
 print("Divide : ", a)
 
 a %= b

@@ -11,15 +11,15 @@ for i in range(0, num):
 # Break Statement:
 
 print("\n\n\n\nFOR BREAK STATEMENT :")
-for i in range(0,10):
+for i in range(0, 10):
     print(i)
     if i == 5:
-        break;
+        break
 
 # Continue Statement:
 
 print("\n\n\n\nFOR CONTINUE STATEMENT :")
-for i in range(0,10):
+for i in range(0, 10):
     if i == 5:
         continue
     else:
@@ -31,7 +31,6 @@ for i in "python":
         pass
     else:
         print(i)
-
 
 
 # Data Structures (In Detail, Chapter 3):
