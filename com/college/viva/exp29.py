@@ -1,21 +1,20 @@
 # WAP to implement Multiple Inheritance.
 
 class A:
-    def timepassFunction(self):
-        print("These are examples of Multiple Inheritance.")
-
-
-class B(A):
     def __init__(self):
-        super().timepassFunction()
+        print("Constructor of A.")
 
 
-class C(A):
+class B:
     def __init__(self):
-        super().timepassFunction()
+        print("Constructor of B.")
 
 
-b = B()
+class C(A, B):
+    def __init__(self):
+        super().__init__()
+
+
 c = C()
 
 # Performed by Gaurav Amarnani, Roll No. 21, CO6IA.
